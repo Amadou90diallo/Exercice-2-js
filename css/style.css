@@ -1,0 +1,16 @@
+
+#div_a_modifier{
+	margin: 100px auto;
+	background-color: blue;
+	border: 1px solid black;
+	height: 100px;
+	width: 100px;
+}
+
+.conteneur{
+	margin-left: 100px; 
+}
+
+.titre{
+	margin: 40px 0 0 550px;
+}
